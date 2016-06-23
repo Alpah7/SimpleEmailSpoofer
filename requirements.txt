@@ -1,2 +1,6 @@
 colorama
 argparse
+emailprotectionslib
+dnslib
+dnspython
+tldextract
